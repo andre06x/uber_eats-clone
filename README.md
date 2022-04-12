@@ -27,7 +27,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Lottie](https://airbnb.io/lottie/#/)
   
 ## 💻 Projeto
-Uber Eats Clone faz parte de uma série de aplicativos que escolhi para clonar a interface e funcionalidades, porém esse projeto foi criado utilizando o vídeo do [Clever Programmer](https://www.youtube.com/watch?v=jmvbhuJXFow) <br/>
+Uber Eats Clone faz parte de uma série de aplicativos que escolhi para clonar a interface e funcionalidades, porém esse projeto foi criado utilizando o vídeo do [Clever Programmer](https://www.youtube.com/watch?v=jmvbhuJXFow) <br/> <br/>
 <span>A api da yelp funciona apenas para requisitar e procurar restaurantes com base na cidade escolhida, os pratos dos restaurantes são fixos.</span>
 
 <h1>🔖 Layout</h1>
